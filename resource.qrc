@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Trans/zh_CN.qm</file>
+        <file>Icons/Edit.png</file>
+        <file>Icons/Export.png</file>
+        <file>Icons/Layers.png</file>
+        <file>Icons/Minus.png</file>
+        <file>Icons/New.png</file>
+        <file>Icons/Ok.png</file>
+        <file>Icons/Open.png</file>
+        <file>Icons/Add.png</file>
+        <file>Icons/RecentFiles.png</file>
+        <file>Icons/Remove.png</file>
+        <file>Icons/Save.png</file>
+        <file>Icons/SaveAll.png</file>
+        <file>Icons/SaveAs.png</file>
+        <file>Icons/Undo.png</file>
+        <file>Icons/Refresh.png</file>
+        <file>Icons/Rename.png</file>
+        <file>Icons/FullExtent.png</file>
+        <file>Icons/Pan.png</file>
+        <file>Icons/ZoomIn.png</file>
+        <file>Icons/ZoomOut.png</file>
+        <file>Icons/Maximize.png</file>
+        <file>Icons/AddProperty.png</file>
+        <file>Icons/DataSource.png</file>
+        <file>Icons/Start.png</file>
+        <file>Icons/Stop.png</file>
+        <file>Icons/Redo.png</file>
+        <file>StyleSheet/default.css</file>
+        <file>Icons/OBCD.png</file>
+        <file>Icons/PBCD.png</file>
+        <file>Icons/2.png</file>
+        <file>Icons/2p.png</file>
+        <file>Icons/Default.png</file>
+        <file>Icons/Import.png</file>
+        <file>Icons/file_1.ico</file>
+        <file>Icons/multiple_input.ico</file>
+        <file>Icons/train.ico</file>
+        <file>Icons/model.ico</file>
+        <file>Icons/save.ico</file>
+        <file>Icons/Identify.png</file>
+    </qresource>
+</RCC>
